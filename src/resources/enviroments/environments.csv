@@ -1,2 +1,4 @@
 service variable,DEV,QA,PROD
 WWW_FONT_URL,http://demoqa.com/,https://pl.wiktionary.org/wiki/,http://orient-addicts.djamila.pl/
+THE_INTERNET_MAIN_PAGE,http://the-internet.herokuapp.com/,,
+ELEMENTAL_SELENIUM_PAGE,http://elementalselenium.com/,,

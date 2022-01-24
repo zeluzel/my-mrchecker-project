@@ -12,7 +12,9 @@ import java.util.Objects;
 public enum EnvironmentParam {
 	
 	// Name if enum must be in line with cell name in /src/resources/environments/environment.csv
-	WWW_FONT_URL;
+	WWW_FONT_URL,
+	THE_INTERNET_MAIN_PAGE,
+	ELEMENTAL_SELENIUM_PAGE;
 	
 	public String getValue() {
 		if (Objects.isNull(BaseTest.getEnvironmentService())) {
